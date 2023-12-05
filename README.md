@@ -1,1 +1,1 @@
-# CFD_Assgnment_Demo
+# CFD_Assignment_Demo
